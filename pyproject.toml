@@ -1,0 +1,18 @@
+[project]
+name = "ai-newsletter-gen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ['google-generativeai == 0.8.5',
+                'openai==0.27.8',
+                'python-dotenv==1.0.1',
+                'requests==2.31.0',
+                'tenacity==8.2.3',
+                'typer==0.9.0',
+                'rich==13.5.2',
+                'aiohttp==3.9.5',
+                'asyncio==3.4.3',
+                'requests==2.31.0',
+                'python-dotenv==1.0.1',
+                ]
