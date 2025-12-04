@@ -76,18 +76,6 @@ Connects to your SMTP server and sends the newsletter.
 ---
 
 
-## 🧪 Example Digest
-
-You can modify the provided anonymized example:
-
-```
-examples/input_digest_example.md
-```
-
-Or replace it with your own Markdown content.
-
----
-
 ## 🛠️ Customization
 
 You can easily adjust:
